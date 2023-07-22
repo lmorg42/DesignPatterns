@@ -1,2 +1,2 @@
 # DesignPatterns
-Initial 2
+Practice with Various Design Patterns in Java
